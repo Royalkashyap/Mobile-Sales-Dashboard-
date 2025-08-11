@@ -56,5 +56,7 @@ Screenshots / Demo
 <img width="1920" height="1080" alt="Mobile Sales Dashboard (2)" src="https://github.com/user-attachments/assets/2760be6b-fe7e-4a1b-a023-c9c360215ca0" />
 
 Contact  
-For any queries or collaboration opportunities, feel free to connect:  
-Rajan Kashyap – [LinkedIn](linkedin.com/in/rajan-kashyap-ab7ba333b) | [Email](rajankashyaplucky@gmail.com)  
+Data Analyst | Power BI Developer | SQL & Python  
+📧 [rajankashyaplucky@gmail.com](mailto:rajankashyaplucky@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rajan-kashyap-ab7ba333b)
+
