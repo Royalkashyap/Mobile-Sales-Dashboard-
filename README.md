@@ -53,7 +53,8 @@ Insights Gained
 - Sales grew significantly in Q1 2023 compared to the same period in 2022.
 
 Screenshots / Demo 
-Show what the bdashboard Looks like :https://github.com/Royalkashyap/Mobile-Sales-Dashboard-/blob/main/Mobile%20Sales%20Dashboard%20(2).png
+Show what the dashboard Looks like <a href="https://github.com/Royalkashyap/Mobile-Sales-Dashboard-/blob/main/Mobile%20Sales%20Dashboard%20(2).png">view Dashboard</a>
+"
 Contact  
 For any queries or collaboration opportunities, feel free to connect:  
 Rajan Kashyap – [LinkedIn](linkedin.com/in/rajan-kashyap-ab7ba333b) | [Email](rajankashyaplucky@gmail.com)  
